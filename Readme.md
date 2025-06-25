@@ -1,5 +1,5 @@
-Chat with PDF using LangChain + OpenAI
-A simple and interactive Streamlit app that lets you chat with the content of PDF files. It uses LangChain, OpenAI, and FAISS to create a question-answering chatbot that understands your documents.
+**Chat with PDF using LangChain + OpenAI
+**A simple and interactive Streamlit app that lets you chat with the content of PDF files. It uses LangChain, OpenAI, and FAISS to create a question-answering chatbot that understands your documents.
 ________________________________________
 Features
 •	 Intelligent Q&A over PDF content
